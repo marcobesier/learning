@@ -4,8 +4,9 @@ Notes from my learning journey that others may find useful.
 
 ## CTF Solutions
 
-1. [Capture the Ether](./capture-the-ether.md)
-2. [Damn Vulnerable DeFi](./damn-vulnerable-defi.md)
+1. [Ethernaut](./ethernaut.md)
+2. [Capture the Ether](./capture-the-ether.md)
+3. [Damn Vulnerable DeFi](./damn-vulnerable-defi.md)
 
 ## Exercise Solutions to Cryptography Lecture Notes
 
