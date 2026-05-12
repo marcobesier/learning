@@ -11,3 +11,7 @@ Notes from my learning journey that others may find useful.
 ## Exercise Solutions to Cryptography Lecture Notes
 
 1. [Proofs, Arguments, and Zero-Knowledge](proofs-args-and-zk.md)
+
+## Programming Courses
+
+1. [RareCode's Rust Course](https://rarecode.ai/)
