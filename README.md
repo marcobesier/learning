@@ -14,4 +14,4 @@ Notes from my learning journey that others may find useful.
 
 ## Programming Courses
 
-1. [RareCode's Rust Course](https://rarecode.ai/)
+1. [RareCode's Rust Course](./rust.md)
